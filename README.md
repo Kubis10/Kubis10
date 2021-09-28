@@ -18,6 +18,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-1f425f?style=flat-square&logo=VisualStudioCode&logoColor=white" />
 </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
