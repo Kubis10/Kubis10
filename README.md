@@ -1,6 +1,6 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome to my profile.</h1>
+ <h3>Hey! Welcome to my profile. ✌️</h3>
 
-<h3>Things I code with:</h3>
+<h4>Things I code with:</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
@@ -22,6 +22,7 @@
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-1f425f?style=flat-square&logo=VisualStudioCode&logoColor=white" />
 </p>
 
+<h4>My stats:</h4>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kubis10&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Moje statystyki" />
 </a>
