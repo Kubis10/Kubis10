@@ -23,13 +23,13 @@ I'm a front-end developer who's all about JavaScript, React, and making gorgeous
 <br/>  
 
 
-## Rapidfire  
+## Facts  
 <table><tr><td valign="top" width="50%">
 
 - 🖥️ I’m currently working in Xopero Software S.A.  
   
 
--  🌏 I’m currently learning React Native  
+-  🌏 I’m CO-CEO of <a href="[Webace](https://webace-group.dev/)" target="_blank">WebAce Group</a>
   
 
 - 🤽‍♂️ I was playing waterpolo for few years  
