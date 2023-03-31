@@ -26,7 +26,7 @@ I'm a front-end developer who's all about JavaScript, React, and making gorgeous
 ## Facts  
 <table><tr><td valign="top" width="50%">
 
-- 🖥️ I’m currently working in Xopero Software S.A.  
+- 🖥️ I’m currently working on open source projects
   
 
 -  🌏 I’m CO-CEO of <a href="https://webace-group.dev/" target="_blank">WebAce Group</a>
