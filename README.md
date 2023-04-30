@@ -41,7 +41,7 @@ I'm a front-end developer who's all about JavaScript, React, and making gorgeous
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.gifer.com/7NhI.gif" align="center" style="width: 100%" />
 </div>  
 
 
