@@ -29,7 +29,7 @@ I'm a front-end developer who's all about JavaScript, React, and making gorgeous
 - 🖥️ I’m currently working on open source projects
   
 
--  🌏 I’m CO-CEO of <a href="https://webace-group.dev/" target="_blank">WebAce Group</a>
+-  🌏 I’m CO-CEO of WebAce Group
   
 
 - 🤽‍♂️ I was playing waterpolo for few years  
